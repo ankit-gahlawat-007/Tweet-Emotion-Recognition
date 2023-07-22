@@ -14,4 +14,5 @@ It is divided into the following steps:
 8. Evaluate the model
 
 It was done with the help of the following course from coursera: https://www.coursera.org/projects/tweet-emotion-tensorflow
+
 Project certification: https://coursera.org/share/e5aa5df67a07baae19be1488d8ed3fb3
